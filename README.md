@@ -26,7 +26,7 @@
 
 💛 I’m currently working on **Personal Portfolio Webpage**
 
-🧡 I’m currently learning **HTML and CSS**
+🧡 I’m currently learning **React**
 
 💚 I’m looking to collaborate on **OpenSource Projects**
 
